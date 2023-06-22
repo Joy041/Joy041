@@ -2,10 +2,11 @@
 
 ### Hi there 👋, I'm Joy Purkaystha
 
-### 👑 I am Web developer
-### 🖊 Love to write code
-### 🎤 Like to share my knowledge
-### 📫 How to reach me: joypurkaystha04@gmail.com
+#### 👑 I am Web developer
+#### 🖊 Love to write code
+#### 🎤 Like to share my knowledge
+#### 📫 How to reach me: joypurkaystha04@gmail.com
+
 
 I'm a highly skilled and dedicated Full Stack Developer proficient in HTML, CSS, JavaScript, and React. Equipped with a strong work ethic and a tenacious drive to excel, I consistently deliver exceptional results. With excellent management skills, I efficiently coordinate projects and optimize team performance, ensuring seamless execution of complex web development tasks.
 
