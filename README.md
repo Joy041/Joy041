@@ -1,16 +1,20 @@
-### Hi there 👋
+![I am Web developer](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/322366822_475853371367444_144530696803304818_n.jpg?stp=cp6_dst-jpg_s960x960&_nc_cat=101&cb=99be929b-3346023f&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGp4OrAHSgkCZ-kxIxaJdhfKsxJEmPfROUqzEkSY99E5UrWt8-3EvTPhobEtv84A02tIpgZ0uiJZCRRgA4UCqAG&_nc_ohc=fbXRGEK5R6wAX9cq9b0&_nc_ht=scontent.fdac135-1.fna&oh=00_AfBMlpv8oZKWVjXuWaxpCPO-MrhsgWPLkb4YxusKpE2Kxw&oe=6498A286)
+
+### Hi 👋, I'm Joy Purkaystha
+#### I am Web developer
+
+I'm a highly skilled and dedicated Full Stack Developer proficient in HTML, CSS, JavaScript, and React. Equipped with a strong work ethic and a tenacious drive to excel, I consistently deliver exceptional results. With excellent management skills, I efficiently coordinate projects and optimize team performance, ensuring seamless execution of complex web development tasks.
+
+Skills:  REACT / JS / HTML / CSS / MongoDb / Next.js / Axios / TanStack Query / Express  
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Next.js 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Web development 
+- 📫 How to reach me:  joypurkaystha04@gmail.com 
 
 
-**Joy041/Joy041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Joy041)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joypurkaystha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/joy.shoi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jp_kaystha/)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joy041)](https://github.com/anuraghazra/github-readme-stats)
 
